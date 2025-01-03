@@ -1,0 +1,42 @@
+<!-- Level 1 and 2 of HTML-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>This is para</p>
+    <br>
+    <p>New paragraph</p>
+    <!-- Image Tag-->
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHrvCwx8k_WyIOri6iWKD443_4bR3_zwUCw&s" alt="Random Image" height="450" width="540">
+
+    <!-- Anchor Tag-->
+    <a href="https://www.cricbuzz.com/">Cricbuzz</a>
+    <br>
+    <b>BOLD</b>
+    <br>
+    <i>Italic</i>
+    <br>
+    <u>Underline</u>
+    <br>
+    <big>Big</big>
+    <hr/>
+    <small>Small as Minion</small>
+    <br>
+    <!-- Subscript -->
+    <p>H<sub>2</sub>0</p>
+
+    <!-- Superscript -->
+    <p>3<sup>2</sup> = 9</p>
+
+    <!-- Pre Tag -->
+     <pre>A paragraph                        is a section of writing that focuses on a single topic or idea and is usually made up of multiple sentences.</pre>
+</body>
+</html>
+
+
